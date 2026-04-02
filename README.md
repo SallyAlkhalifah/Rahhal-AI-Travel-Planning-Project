@@ -1,6 +1,6 @@
-# Rahhal – AI Travel Planning Project
+# Rahaal – AI Travel Planning Project
 
-**Rahhal** is a web application built using AI technologies to help users plan customized travel itineraries. The system collects information from users (destination, duration, budget, number of people, type of trip) and generates a complete daily plan with detailed recommendations and images. Users can also upload a photo of a tourist landmark to get intelligent information about it.
+**Rahaal** is a web application built using AI technologies to help users plan customized travel itineraries. The system collects information from users (destination, duration, budget, number of people, type of trip) and generates a complete daily plan with detailed recommendations and images. Users can also upload a photo of a tourist landmark to get intelligent information about it.
 
 ---
 
@@ -14,12 +14,11 @@ Many travelers, especially non-experts, face challenges such as:
 - Wasting time planning trips.  
 - Choosing inappropriate destinations or activities.  
 - Wasting budget or poor budget allocation.  
-- Reliance on scattered websites such as Booking, TripAdvisor, and Google.  
 
 ---
 
 ## Added Value
-Rahhal provides the following benefits:
+Rahaal provides the following benefits:
 
 - Image analysis and landmark recognition, with suggestions for similar places.  
 - Personalized destination suggestions based on user profile and preferences.  
